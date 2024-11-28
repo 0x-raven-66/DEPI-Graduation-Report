@@ -54,16 +54,6 @@ The following tools and resources were essential in the execution of this projec
 
 ---
 
-### 💡 **How to Use This Repository**
-1. Clone the repository to your local machine:
-   ```bash
-   git clone https://github.com/<your-repo-url>.git
-   ```
-2. Refer to the `Final_Project_DEPI(Yellow_Team).pdf` for in-depth project information.
-3. Use the provided scripts or configurations (if any) to replicate the pentesting environment.
-
----
-
 ### ⚠️ **Disclaimer**
 This project was conducted in a controlled virtual environment for academic purposes only. The methods and tools demonstrated should not be applied to unauthorized systems.
 
