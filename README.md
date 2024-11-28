@@ -47,13 +47,6 @@ The following tools and resources were essential in the execution of this projec
 
 ---
 
-### 📂 **Repository Structure**
-- `README.md`: This documentation.
-- `Final_Project_DEPI(Yellow_Team).pdf`: Final report containing all project details.
-- Additional files for scripts, PCAP captures, and exploit configurations (if applicable).
-
----
-
 ### ⚠️ **Disclaimer**
 This project was conducted in a controlled virtual environment for academic purposes only. The methods and tools demonstrated should not be applied to unauthorized systems.
 
